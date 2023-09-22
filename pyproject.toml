@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = 'IsMyInternetWorking'
-version = '0.1.0'
+version = '0.2.1'
 authors = [
     { name='Alaester Nikolai Modern', email='a.modern.freelancing@gmail.com' },
 ]
@@ -13,7 +13,7 @@ readme = 'README.md'
 requires-python = ">=3.9"
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: GNU AGPLv3",
+    "License :: OSI Approved :: GNU Affero General Public License v3",
     "Operating System :: OS Independent",
 ]
 
